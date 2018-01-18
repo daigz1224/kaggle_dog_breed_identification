@@ -1,0 +1,5 @@
+- train [kaggle - dog-breed-identification](https://www.kaggle.com/c/dog-breed-identification/data)
+- test
+- labels.csv
+- sample_submission.csv
+- Images [stanford dog dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
